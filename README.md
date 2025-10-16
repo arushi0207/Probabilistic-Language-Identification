@@ -1,4 +1,4 @@
-# 🧠 Probabilistic Language Identification (CS540 Homework 2)
+# 🧠 Probabilistic Language Identification
 
 This project implements a **Naïve Bayes–based language classifier** that determines whether a given text was written in **English** or **Spanish** using character-frequency analysis.
 
